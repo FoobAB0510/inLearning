@@ -1,4 +1,4 @@
-# Gradle run with Java plugin
+# Gradle complie with Java plugin
 
 **Command** `gradle tasks`
 
