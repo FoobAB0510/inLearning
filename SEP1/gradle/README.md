@@ -39,7 +39,7 @@
 - Tìm hiểu về Gradle Build Project Layout
 
 
-## Hiểu 1 chút với Settings.Gradle
+## Hiểu 1 chút về Settings.Gradle
 
 [Thông tin settings.gradle cơ bản](https://github.com/Fubuki-World0510/inLearning/blob/main/SEP1/gradle/BuildAndConfig/settings.gradle.kts.md)
 
