@@ -9,13 +9,6 @@ repositories {
     google()
 }
 
-tasks.jar {
-    manifest {
-        attributes["Main-Class"] = "com.kotlinab.MainKt"
-    }
-}
-
-
 dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2")
     implementation("io.ktor:ktor-client-core:1.6.4")
@@ -26,6 +19,12 @@ dependencies {
     implementation(kotlin("stdlib"))
     implementation("com.microsoft.sqlserver:mssql-jdbc:12.8.1.jre11")
     testImplementation(kotlin("test"))
+}
+
+tasks.jar {
+    manifest {
+        attributes["Main-Class"] = "com.kotlinab.MainKt"
+    }
 }
 
 tasks.test {
