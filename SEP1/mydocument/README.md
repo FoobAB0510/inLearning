@@ -151,7 +151,7 @@
 **5. Nguyên tắc**
 - Trình bày theo nội dung nguyên tắc đã thiết lập
 
-6. Giải pháp
+**6. Giải pháp**
 - Trình bày 12 giải pháp dành cho 12 hướng con người
 
 ## `Kết bài`
